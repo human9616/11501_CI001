@@ -14,4 +14,4 @@
 This repository stores assignments, projects, and documentation for the CI001 course.
 
 ## GitHub Pages Site
-Visit my personal website: [https://human9616.github.io/](https://human9616.github.io/)
+Visit my personal website: [https://human9616.github.io/](https://github.com/human9616/human9616.github.io)
