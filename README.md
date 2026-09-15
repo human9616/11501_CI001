@@ -6,9 +6,9 @@
 - **Instructor**: [Yu-Feng Huang](yfhuang@saturn.yzu.edu.tw)
 
 ## About Me
-- **Student ID**: student_id
-- **Student Name**: student_name
-- **Student E-mail**: [student_name](student_id@mail.yzu.edu.tw)
+- **Student ID**: s1151503
+- **Student Name**: 楊志盛
+- **Student E-mail**: [楊志盛](s1151503@mail.yzu.edu.tw)
 
 ## Repository Purpose
 This repository stores assignments, projects, and documentation for the CI001 course.
